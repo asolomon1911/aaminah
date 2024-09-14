@@ -1,7 +1,7 @@
 <!-- HTML Meta Tags -->
 <meta name="description" content="Aaminah's House specializes in working with families to strengthen relationships, foster individual growth, improve communication, and develop healthier dynamics.">
 <!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://allyconsult.org">
+<meta property="og:url" content="https://aaminahfrc.com">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Aaminah's House - We Care">
 <!--<meta property="og:description" content="At Aaminah's House, our mission is to eliminate the barriers that traditionally make it difficult and uncomfortable for clients to take advantage of support services. We believe in providing home-based services that are accessible, flexible, and tailored to the unique needs of each family.">-->

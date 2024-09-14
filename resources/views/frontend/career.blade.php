@@ -42,7 +42,7 @@
                         <p class="small-font"><strong>We currently have full and part time opportunities for staff that live
                                 near and can service
                                 the following Georgia Counties:</strong></p>
-                        <p class="small-font">Bibb, Chatham, Dougherty, Fulton, Lowndes,  Muscogee, and Richmond</p>
+                        <p class="small-font">Bibb, Camden, Chatham, Dougherty, Fulton, Glynn, Liberty, Lowndes, Muscogee, and Richmond</p>
                     </div>
 
                 </div>
