@@ -19,7 +19,7 @@
             <div class="col-lg-6">
                 <div>
                     <a href="index.html" class="logo">
-                        <img src="{{asset('assets/frontend/images/svg/logo.svg')}}" class="my-2">
+                        <img src="{{asset('assets/frontend/images/Aaminah_Logo.png')}}" class="my-2">
                     </a>
                     {{--  <p class="max-w-400" class="my-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                         do eiusmod tempor incididunt ut
@@ -38,7 +38,7 @@
                 <ul>
                     <li><a href="{{route('home')}}index.html">Home</a></li>
                     <li><a href="{{route('services')}}">Services</a></li>
-                    <li><a href="{{route('ally.difference')}}">The Aaminah's House Difference</a></li>
+                    <li><a href="{{route('aaminah.difference')}}">The Aaminah's House Difference</a></li>
                     <li><a href="{{route('career')}}">Career</a></li>
                     <li><a href="{{route('about')}}">About</a></li>
                     <li><a href="{{route('contact')}}">Contact</a></li>
@@ -60,9 +60,9 @@
                             <span class="min-margin-left">(678) 894 0028</span></a>
                         </a>
                     </li>
-                    <li><a href="mailto:info@allyconsult.org" class="d-flex">
+                    <li><a href="mailto:info@aaminahfrc.com" class="d-flex">
                             <img src="{{asset('assets/frontend/images/svg/mail-icon.svg')}}">
-                            <span class="min-margin-left">info@allyconsult.org</span>
+                            <span class="min-margin-left">info@aaminahfrc.com</span>
                         </a>
                     </li>
                 </ul>

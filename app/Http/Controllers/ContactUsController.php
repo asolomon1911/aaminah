@@ -21,7 +21,7 @@ class ContactUsController extends Controller
             'agency_county' => $request->input('agency_county'),
         ];
         try {
-            Mail::to(env('MAIL_FROM_ADDRESS', 'info@allyconsult.org'))->send(new ContactUsEmail($data));
+            Mail::to(env('MAIL_FROM_ADDRESS', 'info@aaminahfrc.com'))->send(new ContactUsEmail($data));
             Session::put('type', 'success');
             Session::put('message', 'Email sent successfully. We will contact you soon.');
             return redirect()->to('/contact#form');

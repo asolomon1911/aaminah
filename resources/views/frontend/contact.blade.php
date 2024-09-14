@@ -32,9 +32,9 @@
                             <p class="title text-start margin-bottom-5 max-w-400">We would love to hear from you!</p>
                             <p class="small-font margin-bottom-5 text-light pb-4">All fields are required</p>
                             <p>
-                                <a href="mailto:info@allyconsult.org" class="text-decoration-none center-item">
+                                <a href="mailto:info@aaminahfrc.com" class="text-decoration-none center-item">
                                     <img src="{{asset('assets/frontend/images/svg/contact-mail.svg')}}" class="height-34"/>
-                                    <span> info@allyconsult.org</span>
+                                    <span> info@aaminahfrc.com</span>
                                 </a>
                             </p>
                             <p>

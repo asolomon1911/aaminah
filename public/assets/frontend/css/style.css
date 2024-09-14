@@ -393,3 +393,9 @@ background-image:url("../images/svg/arrow-up-right.svg")
 .contact-left-wrapper img{
     height: 25px;
 }
+
+
+.logo img {
+    width: 35px !important;
+    height: 67px !important;
+}

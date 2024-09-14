@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="navbar-brand logo">
                     <a class="" aria-current="page" href="{{route('home')}}">
-                        <img src="{{asset('assets/frontend/images/svg/logo.svg')}}">
+                        <img src="{{asset('assets/frontend/images/Aaminah_Logo.png')}}">
                     </a>
                 </div>
                 <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse"
@@ -23,8 +23,8 @@
                                href="{{route('services')}}">Services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link {{ Route::currentRouteName() === 'ally.difference' ? 'active' : '' }}"
-                               href="{{route('ally.difference')}}">The Aaminah's House Difference</a>
+                            <a class="nav-link {{ Route::currentRouteName() === 'aaminah.difference' ? 'active' : '' }}"
+                               href="{{route('aaminah.difference')}}">The Aaminah's House Difference</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link {{ Route::currentRouteName() === 'career' ? 'active' : '' }}"

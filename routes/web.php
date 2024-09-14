@@ -17,7 +17,7 @@ Route::get("/", [App\Http\Controllers\CommonFrontendController::class, "home"])-
 Route::get("/about", [App\Http\Controllers\CommonFrontendController::class, "about"])->name("about");
 Route::get("/contact", [App\Http\Controllers\CommonFrontendController::class, "contact"])->name("contact");
 Route::get("/services", [App\Http\Controllers\CommonFrontendController::class, "services"])->name("services");
-Route::get("/the-ally-difference", [App\Http\Controllers\CommonFrontendController::class, "allyDifference"])->name("ally.difference");
+Route::get("/the-aaminah-difference", [App\Http\Controllers\CommonFrontendController::class, "allyDifference"])->name("aaminah.difference");
 Route::get("/career", [App\Http\Controllers\CommonFrontendController::class, "career"])->name("career");
 Route::post("/send-contact-us-email", [App\Http\Controllers\ContactUsController::class, "sendContactUsEmail"])->name("send-contact-us-email");
 Route::post("/send-carrier-email", [App\Http\Controllers\ContactUsController::class, "sendCareerEmail"])->name("send-career-email");

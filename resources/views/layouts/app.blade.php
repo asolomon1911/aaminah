@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="icon" href="{{asset('favicon.ico')}}">
+    <link rel="icon" href="{{asset('assets/frontend/images/Aaminah_Logo.png')}}">
     <link href="{{asset('assets/frontend/css/bootstrap-v5.0.2.css')}}" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=General+Sans:wght@400;600;700&display=swap">
     <link href="{{asset('assets/frontend/css/style.css')}}" rel="stylesheet">
