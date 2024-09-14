@@ -16,7 +16,7 @@
 <section class="bg-secondary footer">
     <div class="container footer-content-wrapper">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-3">
                 <div>
                     <a href="index.html" class="logo">
                         <img src="{{asset('assets/frontend/images/Aaminah_Logo.png')}}" class="my-2">
@@ -32,7 +32,7 @@
                     <a href="#" target="_blank"><img src="{{asset('assets/frontend/images/svg/linkedin.svg')}}" class="h-34"></a>
                 </div>  --}}
             </div>
-
+            
             <div class="col-lg-2">
                 <h5 class="fw-bold">Quick Links</h5>
                 <ul>
@@ -45,7 +45,7 @@
                 </ul>
             </div>
           
-            <div class="col-lg-2">
+            <div class="col-lg-2 offset-lg-3">
                 <h5 class="fw-bold">Contact Us</h5>
                 <ul>
                     <li><a href="tel:+16788940028">
