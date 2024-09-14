@@ -394,8 +394,10 @@ background-image:url("../images/svg/arrow-up-right.svg")
     height: 25px;
 }
 
-
 .logo img {
-    width: 35px !important;
-    height: 67px !important;
+    margin-top: -86px !important;
+    width: 109px !important;
+    height: 200px !important;
+    position: absolute;
+    margin-left: -2%;
 }

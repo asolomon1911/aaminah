@@ -24,7 +24,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link {{ Route::currentRouteName() === 'aaminah.difference' ? 'active' : '' }}"
-                               href="{{route('aaminah.difference')}}">The Aaminah's House Difference</a>
+                               href="{{route('aaminah.difference')}}">The Aaminah Difference</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link {{ Route::currentRouteName() === 'career' ? 'active' : '' }}"
