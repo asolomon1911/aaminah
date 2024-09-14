@@ -40,7 +40,7 @@
                             <p>
                                 <a class="text-decoration-none center-item" href="tel:+16788940028" >
                                     <img src="{{asset('assets/frontend/images/svg/contact-call.svg')}}"/>
-                                    <span> (678) 894-0028</span>
+                                    <span> (229) 900-1312</span>
                                 </a>
                             </p>
                         </div>
