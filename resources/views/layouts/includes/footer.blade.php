@@ -44,14 +44,7 @@
                     <li><a href="{{route('contact')}}">Contact</a></li>
                 </ul>
             </div>
-            <div class="col-lg-2">
-                <h5 class="fw-bold">Help Center</h5>
-                <ul>
-                    <li><a href="#">Privacy policy</a></li>
-                    <li><a href="#">Cookies</a></li>
-                    <li><a href="#">Terms & condition</a></li>
-                </ul>
-            </div>
+          
             <div class="col-lg-2">
                 <h5 class="fw-bold">Contact Us</h5>
                 <ul>
