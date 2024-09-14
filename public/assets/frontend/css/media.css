@@ -1,0 +1,184 @@
+@media (min-width: 1024px) {
+    .container {
+        max-width: 1100px!important;
+    }
+
+}
+@media (max-width: 768px) {
+    section {
+        padding: 20px;
+    }
+    .section-2{
+        padding: 10px 20px;
+    }
+    .main-nav-item {
+        justify-content: left;
+        align-items: flex-start;
+    }
+    .footer-top-wrapper{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .slider-left-wrapper{
+        text-align: center;
+    }
+    .slider-image-wrapper{
+        padding-left: 0!important;
+    }
+    .slider-image-wrapper img{
+        margin-top: 10px;
+        padding-bottom: 10px;
+    }
+    .footer-top {
+        height: 660px;
+    }
+    .footer-top-content {
+        padding: 40px 20px;
+        justify-content: flex-start;
+        text-align: center;
+    }
+    .footer-top-content .contact-us-today-title{
+        margin: 0 auto;
+        padding: 10px;
+    }
+    .footer-top-content .align-self-baseline{
+        align-self: unset!important;
+        width: 120px;
+        margin: 0 auto;
+    }
+    .footer-top-image img {
+        left: 50%;
+        transform: translateX(-53%);
+        right: 0;
+    }
+    .card-body{
+        text-align: center;
+    }
+    .card-body button{
+        left: 50%;
+        transform: translateX(-53%);
+    }
+    .card .card-btn{
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .card-content img{
+        height: 100px;
+    }
+
+    .common-slider .slider-title{
+        font-size: 30px;
+        line-height: 1.2;
+    }
+    .common-slider .slider-image-wrapper img{
+        padding-bottom: 0!important;
+    }
+    .common-slider .slider-left-button-wrapper img{
+        display: none;
+    }
+    .common-slider .slider-left-button-wrapper img{
+        display: none;
+    }
+    .common-content-wrapper {
+        padding: 0!important;
+        margin: 0!important;
+    }
+    .common-content-wrapper .common-margin-top{
+        margin-top: 0;
+    }
+    .common-content {
+        text-align: center;
+    }
+    .common-reverse-content{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .landing .slider-title {
+        font-size: 40px;
+    }
+    .landing .slider-subtitle {
+        font-size: 40px;
+    }
+    .contact-container .contact-left-wrapper{
+        text-align: center;
+    }
+    .contact-container .contact-left-wrapper .title{
+        text-align: center!important;
+    }
+
+    .contact-container .center-item{
+        text-align: center!important;
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-container .contact-left-wrapper img{
+        height: 50px;
+    }
+    .slider-image-wrapper{
+        height: 550px!important;
+    }
+    .common-slider .slider-image-wrapper img{
+        left: 8%!important;
+    }
+    .about-content-image-wrapper img{
+        height: 85%;
+    }
+    .about-content-image-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .sidebar {
+        width: 200px;
+    }
+}
+@media (max-width: 426px){
+    .slider-left-wrapper{
+        max-width: 350px;
+        margin: 0 auto;
+    }
+    .slider-image-wrapper{
+        height: 300px!important;
+    }
+    .landing .common-slider .slider-image-wrapper img{
+        height: 300px!important;
+    }
+
+    .contact .common-slider .slider-image-wrapper{
+        height: 250px!important;
+    }
+    .landing .common-slider .slider-image-wrapper img {
+        left: -1% !important;
+    }
+}
+
+@media (max-width: 376px) {
+    .footer-top {
+        height: 700px;
+    }
+    .landing .common-slider .slider-image-wrapper img {
+        bottom: unset;
+    }
+
+    .contact .common-slider .slider-image-wrapper {
+        height: 230px !important;
+    }
+    .landing .common-slider .slider-image-wrapper img {
+        left: -2% !important;
+    }
+}
+
+@media (max-width: 320px) {
+    .contact .common-slider .slider-image-wrapper{
+        height: 200px!important;
+    }
+    .landing .common-slider .slider-image-wrapper img {
+        left: -10% !important;
+    }
+}
+
+
