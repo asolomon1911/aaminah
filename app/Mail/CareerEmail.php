@@ -27,9 +27,9 @@ class CareerEmail extends Mailable
             'email' => isset($this->data['email']) ?$this->data['email'] : '' ,
             'phone' => isset($this->data['phone']) ?$this->data['phone'] : '',
             'position' => isset($this->data['position']) ?$this->data['position'] : '' ,
-            'file_path' => isset($this->data['file_path']) ? env('APP_URL', 'https://allyconsult.org').$this->data['file_path'] : '' ,
+            'file_path' => isset($this->data['file_path']) ? env('APP_URL', 'https://aaminahfrc.com').$this->data['file_path'] : '' ,
             'has_file' => isset($this->data['file_path']),
             'description' => isset($this->data['description']) ?$this->data['description'] : '',
-        ])->subject('Aaminah's House - Career ');
+        ])->subject('Aaminah\'s House - Career ');
     }
 }

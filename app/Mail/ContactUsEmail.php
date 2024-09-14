@@ -26,6 +26,6 @@ class ContactUsEmail extends Mailable
             'message' => isset($this->data['message']) ?$this->data['message'] : '' ,
             'phone' => isset($this->data['phone']) ?$this->data['phone'] : '',
             'agency_county' => isset($this->data['agency_county']) ?$this->data['agency_county'] : '',
-        ])->subject('Aaminah's House - Contact Us');
+        ])->subject('Aaminah\'s House - Contact Us');
     }
 }

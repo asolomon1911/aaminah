@@ -6,7 +6,7 @@
         @endcomponent
     @endslot
     <div style="padding: 20px">
-        <p style="font-weight: bold">Hi, ally admin one of your user want to contact with us. Here is the user details:</p>
+        <p style="font-weight: bold">Hi, Aaminah's House admin one of your user want to contact with us. Here is the user details:</p>
         <p>Name: {{ $name }}</p>
         <p>Email: {{ $email }}</p>
         <p>Phone: {{ $phone }}</p>
