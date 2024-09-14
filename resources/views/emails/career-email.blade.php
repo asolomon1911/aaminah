@@ -1,8 +1,7 @@
 @component('mail::layout')
     @slot('header')
         @component('mail::header', ['url' => config('app.url')])
-            <img src="{{asset('assets/frontend/images/Aaminah_Logo.png')}}" style="height: 100px;width: 100px;">
-
+            <h2>Aaminah's House</h2>
         @endcomponent
     @endslot
     <div style="padding: 20px">
