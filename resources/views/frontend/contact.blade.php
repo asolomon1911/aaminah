@@ -38,7 +38,7 @@
                                 </a>
                             </p>
                             <p>
-                                <a class="text-decoration-none center-item" href="tel:+16788940028" >
+                                <a class="text-decoration-none center-item" href="tel:+1 (229) 900-1312" >
                                     <img src="{{asset('assets/frontend/images/svg/contact-call.svg')}}"/>
                                     <span> (229) 900-1312</span>
                                 </a>

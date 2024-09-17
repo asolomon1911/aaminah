@@ -53,7 +53,7 @@
             <div class="col-lg-2">
                 <h5 class="fw-bold">Contact Us</h5>
                 <ul>
-                    <li><a href="tel:+16788940028">
+                    <li><a href="tel:+1 (229) 900-1312">
                             <img src="{{ asset('assets/frontend/images/svg/call-icon.svg') }}">
                             <span class="min-margin-left">(229) 900-1312</span></a>
                         </a>
