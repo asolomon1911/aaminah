@@ -134,6 +134,10 @@
         margin-top: 40px !important;
         align-items: center;
     }
+
+    .footer-quick {
+        margin-top: 20%;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -146,6 +150,10 @@
         flex-grow: 1;
         margin-top: 40px !important;
         align-items: center;
+    }
+    
+    .footer-quick {
+        margin-top: 20%;
     }
 }
 @media (max-width: 426px){
@@ -172,6 +180,10 @@
         margin-top: 40px !important;
         align-items: center;
     }
+    
+    .footer-quick {
+        margin-top: 20%;
+    }
 }
 
 @media (max-width: 376px) {
@@ -194,6 +206,10 @@
         margin-top: 40px !important;
         align-items: center;
     }
+    
+    .footer-quick {
+        margin-top: 20%;
+    }
 }
 
 @media (max-width: 320px) {
@@ -208,6 +224,10 @@
         flex-grow: 1;
         margin-top: 40px !important;
         align-items: center;
+    }
+    
+    .footer-quick {
+        margin-top: 20%;
     }
 }
 

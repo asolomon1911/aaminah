@@ -19,8 +19,8 @@
         <div class="row">
             <div class="col-lg-3">
                 <div>
-                    <a href="index.html" class="logo">
-                        <img src="{{ asset('assets/frontend/images/Aaminah_Logo.png') }}" class="my-2">
+                    <a href="{{ route('home') }}" class="logo">
+                        <img src="{{ asset('assets/frontend/images/Aaminah_Logo.png') }}" class="my-2 ">
                     </a>
                     {{--  <p class="max-w-400" class="my-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                         do eiusmod tempor incididunt ut
@@ -34,11 +34,11 @@
                 </div>  --}}
             </div>
 
-            <div class="col-lg-5">
+            <div class="col-lg-5 footer-quick">
                 <div class="row">
                     <h5 class="fw-bold" style="padding-left: 0;">Quick Links</h5>
                     <ul class="col-lg-6">
-                        <li><a href="{{ route('home') }}index.html">Home</a></li>
+                        <li><a href="{{ route('home') }}">Home</a></li>
                         <li><a href="{{ route('services') }}">Services</a></li>
                         <li><a href="{{ route('aaminah.difference') }}">The Aaminah's House Difference</a></li>
                     </ul>
